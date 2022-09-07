@@ -1,2 +1,2 @@
-# my-first-repo
+# my-hello-world-project
 MMT
